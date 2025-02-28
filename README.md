@@ -37,7 +37,8 @@ index code samples
 
 <p>Here's a picture of a cute cat:</p>
 
-<img src="https://placekitten.com/200/300" alt="A cute kitten">
+<img src="![download](https://github.com/user-attachments/assets/1671b3d2-98c5-4f69-a56b-b157d1237fee)
+" alt="bbs rims">
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
