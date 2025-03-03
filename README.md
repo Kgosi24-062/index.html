@@ -1,4 +1,4 @@
-# Kgosi.com
+#bbs rims store
 index code samples
 <!DOCTYPE html>
 
@@ -35,7 +35,7 @@ index code samples
 
 <p>This is a simple webpage hosted on GitHub Pages.</p>
 
-<p>Here's a picture of a cute cat:</p>
+<p>Here's a picture of a bbs rims:</p>
 
 <img src="![download](https://github.com/user-attachments/assets/1671b3d2-98c5-4f69-a56b-b157d1237fee)
 " alt="bbs rims">
