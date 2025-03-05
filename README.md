@@ -37,8 +37,7 @@ index code samples
 
 <p>Here's a picture of a bbs rims:</p>
 
-<img src="(https://github.com/user-attachments/assets/abf3fa19-8ca7-4129-87c8-23583e707aee)
- alt="bbs rims">
+<img src="download.jpeg" alt="bbs rims">
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
