@@ -37,9 +37,7 @@ index code samples
 
 <p>Here's a picture of a bbs rims:</p>
 
-<img src="![download](https://github.com/user-attachments/assets/bc5d86f2-4e62-46c8-9cd2-10046b7a3f3f)
-
-" alt="bbs rims">
+<img src="![download](https://github.com/user-attachments/assets/9e09a562-ecdc-44cd-ae36-960a8da5511b)" alt="bbs rims">
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
@@ -49,7 +47,7 @@ index code samples
 
 <footer>
 
-<p>&copy; 2025 Your Name</p>
+<p>&copy; 2025 Kgosi Romeo Setwaba</p>
 
 </footer>
 
